@@ -73,4 +73,4 @@ Data reference for this LLM is from Web Scrapping on [FAQ Blu page](https://blub
 * [Sample of Model Comparison](https://docs.google.com/spreadsheets/d/1C6bjPlXn09hHPvgiO1LU5f2JuIc1eKDk/edit?usp=sharing&ouid=108097674241546601906&rtpof=true&sd=true)**
 * [Presentation Deck]()
 
-**We compare 3 LLM Model using same temperature, prompt and questions.
+**We compare 3 LLM Model using the same temperature, prompt and questions.
