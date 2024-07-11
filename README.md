@@ -70,7 +70,7 @@ Data reference for this LLM is from Web Scrapping on [FAQ Blu page](https://blub
 ## Link
 
 * [Recording Deployment Video](https://drive.google.com/file/d/1AUtG-WBEMWUht799C6bXHG-T645zUv1c/view?usp=sharing)
-* [Sample of Model Comparison**](https://docs.google.com/spreadsheets/d/1C6bjPlXn09hHPvgiO1LU5f2JuIc1eKDk/edit?usp=sharing&ouid=108097674241546601906&rtpof=true&sd=true)
+* [Sample of Model Comparison](https://docs.google.com/spreadsheets/d/1C6bjPlXn09hHPvgiO1LU5f2JuIc1eKDk/edit?usp=sharing&ouid=108097674241546601906&rtpof=true&sd=true)**
 * [Presentation Deck]()
 
 **We compare 3 LLM Model using same temperature, prompt and questions.
